@@ -3,7 +3,7 @@
 Hi 👋 My name is Himasha Kodikara
 =================================
 
-As an IT student with a fervent passion for continuous learning, I am dedicated to expanding my knowledge and skills in the ever-evolving field of information technology and management.
+As an IT student with a fervent passion for continuous learning, I am dedicated to expanding my knowledge and skills in the ever-evolving field of information technology.
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [himasha.kodikara2001@gmail.com](mailto:himasha.kodikara2001@gmail.com)
