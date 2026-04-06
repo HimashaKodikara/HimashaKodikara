@@ -1,60 +1,68 @@
-# Hi there, I'm Himasha Kodikara! 👋
+# 👋 Hello, I'm Himasha Kodikara
 
 <p align="center">
-  <img src="https://falconeracing.lk/assets/robot_cropped.8b31101e.webp" width="200" style="border-radius: 50%;" />
+  <a href="mailto:himasha.kodikara2001@gmail.com"><img src="https://img.shields.io/badge/Email-CONTACT%20ME-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/himasha-kodikara/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/HimashaKodikara"><img src="https://img.shields.io/badge/GitHub-FOLLOW-black?style=for-the-badge&logo=github"></a>
 </p>
 
-<p align="center">
-  <strong>IT Student | Aspiring Full-Stack Developer | Lifelong Learner</strong>
-</p>
+## 🧑‍💻 About Me
 
-<p align="center">
-  <a href="https://github.com/HimashaKodikara"><img src="https://img.shields.io/github/followers/HimashaKodikara?label=Follow&style=social" /></a>
-  <a href="https://www.linkedin.com/in/himasha-kodikara/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:himasha.kodikara2001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" /></a>
-</p>
+I'm a passionate IT student based in **Sri Lanka** with a focus on software security, system architecture, and modern development methodologies. I enjoy building secure, scalable applications and exploring the fascinating world of quantum computing.
 
----
+* 🔭 I’m currently working on the **CIABOC Declaration of Assets and Liabilities System**.
+* 🎓 Deep diving into **SSDLC, Threat Modeling (STRIDE)**, and **OWASP Top 10**.
+* 🧪 Researching the application of **IT in Sports (Badminton)**.
+* 💬 Ask me about **.NET, React, or Software Security**.
+* ⚡ Fun fact: I love bridging the gap between **Quantum Physics** and **Computing**.
 
-### 💫 About Me
-As an IT student based in **Sri Lanka** 🌍, I am deeply passionate about expanding my knowledge in information technology and management. I love building solutions that bridge the gap between complex backend logic and intuitive frontend design.
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on enhancing my **SSDLC** and **Threat Modeling** knowledge.
-- ⚡ Fun fact: I enjoy exploring the intersection of **IT and Sports**, particularly badminton.
-- 💬 Ask me about: **React, .NET, or Quantum Computing**.
-
----
-
-### 🚀 Tech Stack
-
-#### **Languages & Core**
+### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cs,cpp,c,php" />
+  <img src="https://skillicons.dev/icons?i=cs,python,java,js,cpp,c,php" />
 </p>
 
-#### **Frontend & Design**
+### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap,figma" />
 </p>
 
-#### **Backend & Databases**
+### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,mysql,firebase,mongodb,oracle,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,mysql,firebase,mongodb,oracle" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaKodikara&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,blender,postman" />
 </p>
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HimashaKodikara&show_icons=true&theme=tokyonight&count_private=true" alt="Himasha's GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaKodikara&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimashaKodikara&theme=tokyonight" width="100%" />
+</p>
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/himasha-kodikara/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:himasha.kodikara2001@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/HimashaKodikara"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=HimashaKodikara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<p align="center"><em>Thank you for visiting my profile! Feel free to reach out for collaborations or just a tech chat.</em></p>
