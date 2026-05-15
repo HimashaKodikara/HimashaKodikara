@@ -10,7 +10,7 @@
 
 I'm a passionate IT student based in **Sri Lanka** with a focus on software security, system architecture, and modern development methodologies. I enjoy building secure, scalable applications and exploring the fascinating world of quantum computing.
 
-* 🔭 I’m currently working on the **CIABOC Declaration of Assets and Liabilities System**.
+* 🔭 I’m currently working as an Associate Software Engineer at TekGeeks.
 * 🎓 Deep diving into **SSDLC, Threat Modeling (STRIDE)**, and **OWASP Top 10**.
 * 🧪 Researching the application of **IT in Sports (Badminton)**.
 * 💬 Ask me about **.NET, React, or Software Security**.
